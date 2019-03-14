@@ -8,8 +8,8 @@ import datetime
 import json
 from selenium.webdriver.firefox.options import Options
 
-options = Options()
-options.headless = True
+#options = Options()
+#options.headless = True
 
 # Driver variable to open a Firefox browser
 driver = webdriver.Firefox()
